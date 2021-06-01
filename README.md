@@ -3,7 +3,7 @@ Biomedical data Scientist
 # !/usr/bin/python
 # -*- coding: utf-8 -*
 
-__author__ = "Bharat Sharma"
+__author__ = "kumari Akanksha"
 
 """
 Doc_Type            : Akanksha_DS Utility
